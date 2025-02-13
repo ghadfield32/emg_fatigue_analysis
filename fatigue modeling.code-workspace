@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "spl_freethrow_biomechanics_analysis_ml_prediction",
+			"path": "../../spl_freethrow_biomechanics_analysis_ml_prediction"
+		},
+		{
+			"name": "emg_fatigue_analysis",
+			"path": "../emg_fatigue_analysis"
+		}
+	],
+	"settings": {}
+}
