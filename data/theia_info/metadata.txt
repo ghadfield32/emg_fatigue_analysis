@@ -1,0 +1,30 @@
+MariaDB Schema Dump
+Date: Mon Jul  8 10:58:25 AM PDT 2024
+Server Version: 10.6.12-MariaDB-0ubuntu0.22.04.1
+Databases:
+- biomech_db
+- biomech_hitting_cleaning_comp
+- biomech_hitting_db
+- biomech_hitting_db_rebuild
+- biomech_hitting_db_v2
+- biomech_pitching_db
+- biomech_pitching_db_v7
+- biomech_qa
+- dbtest1
+- defaultdb
+- hurricane
+- hurricane_stage
+- hurricane_test
+- kinatrax_pitching_db
+- kt_test
+- newdb
+- pai_server
+- repltest
+- seleniumdriver
+- shellscriptdb
+- statcast_db
+- statcast_db_depr_2023
+- theia_hitting_db
+- theia_pitching_db
+- third_party_api_db
+- yabinatordb

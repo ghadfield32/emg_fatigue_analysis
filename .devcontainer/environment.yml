@@ -24,3 +24,4 @@ dependencies:
     - CatBoost
     - lightgbm
     - mysql-connector-python
+    - sportypy
