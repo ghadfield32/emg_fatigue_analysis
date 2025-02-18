@@ -25,3 +25,5 @@ dependencies:
     - lightgbm
     - mysql-connector-python
     - sportypy
+    - sqlalchemy
+    - pyarrow
