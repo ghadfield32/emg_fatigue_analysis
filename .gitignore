@@ -1,0 +1,8 @@
+.env
+data/theia_info/
+emg_fatigue_analysis.code-workspace
+notebooks/theia_db_connections/
+notebooks/theia_db_connections/examples/
+notebooks/theia_db_connections/granular_joint_theia_dataset.ipynb
+notebooks/theia_db_connections/summarized_joint_theia_dataset.ipynb
+notebooks/theia_db_connections/example_connection.ipynb
