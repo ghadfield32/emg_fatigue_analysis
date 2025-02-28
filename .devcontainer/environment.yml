@@ -16,7 +16,7 @@ dependencies:
   - flake8
   - mypy
   - pip
-  - seaborn
+  - scipy
   - pip:
     - pretty_errors 
     - gdown
@@ -28,3 +28,4 @@ dependencies:
     - sqlalchemy
     - pyarrow
     - python-dotenv
+
