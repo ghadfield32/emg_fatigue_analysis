@@ -28,4 +28,5 @@ dependencies:
     - sqlalchemy
     - pyarrow
     - python-dotenv
+    - PyWavelets
 
